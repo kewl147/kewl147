@@ -17,7 +17,7 @@
 - **100 Days of Code** — my public log of consistent coding practice and mini-projects.  
   [Repo](https://github.com/kewl147/100DaysofCode)
 
-### 🧰 Tech (add more as you go)
+### 🧰 Tech
 `Python` · `Git` · `VS Code`
 
 ### 📈 By the numbers
