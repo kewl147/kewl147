@@ -3,7 +3,7 @@
 <p align="center">
   <a href="mailto:Kewl147@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/patrick-dillon5/">LinkedIn</a> •
-  <a href="https://github.com/kewl147">GitHub</a>
+  <a href="https://kewl147.github.io">GitHub</a>
 </p>
 
 ### 🚀 What I’m working on
